@@ -84,7 +84,7 @@ This example is based on the [Swift projects](https://github.com/apple/swift) (s
 First reate a directory to contain all the Swift projects
 
 ```bash
-$ mkdir swift-source
+> mkdir swift-source
 $ cd swift-source
 ```
 
